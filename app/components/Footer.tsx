@@ -43,7 +43,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-200 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-600">
-            © {new Date().getFullYear()} Potae. All rights reserved.
+            © {new Date().getFullYear()} Potae12. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-gray-600 transition-colors">
